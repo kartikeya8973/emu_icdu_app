@@ -14,6 +14,7 @@ Open the source of qt application in the same terminal.
 $ qmake
 
 $ make
+
 These steps will successfully compile the application.
 
 Name of application
