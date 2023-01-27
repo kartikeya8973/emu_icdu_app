@@ -12,6 +12,7 @@ To Cross Compile application
 Export environment in a terminal for the above toolchain.
 Open the source of qt application in the same terminal.
 $ qmake
+
 $ make
 These steps will successfully compile the application.
 
