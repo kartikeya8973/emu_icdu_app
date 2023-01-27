@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ir_logo.png</file>
+        <file>images/rtv_logo.png</file>
+        <file>images/ir_logo_400x400.png</file>
+        <file>fonts/fSakalBharati_N_Ship.ttf</file>
+        <file>images/ir_logo_100x100.png</file>
+        <file>images/circle_grey.png</file>
+        <file>images/circle_green.png</file>
+        <file>images/circle_yellow.png</file>
+        <file>images/rtv_logo_small.png</file>
+        <file>images/min_logo_small.png</file>
+        <file>images/icon_siren.png</file>
+        <file>images/icon_ok.png</file>
+    </qresource>
+</RCC>
