@@ -11,8 +11,8 @@ Directory for ICDU Source Code
 To Cross Compile application
 Export environment in a terminal for the above toolchain.
 Open the source of qt application in the same terminal.
-# qmake
-# make
+$ qmake
+$ make
 These steps will successfully compile the application.
 
 Name of application
@@ -23,4 +23,4 @@ ON ICDU (MYS-6ULX)
 Location of ICDU application - /home/root/
 
 To run the application
-# ./lcd_pis_24 -platform linuxfb
+$ ./lcd_pis_24 -platform linuxfb
